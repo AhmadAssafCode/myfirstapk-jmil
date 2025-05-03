@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "issa",
-    "slug": "snack-358ad61f-013b-45c4-9128-6b2f1895f60c",
+    "name": "mhmd-jamil-app",
+    "slug": "mhmd-jamil-app",
     "owner": "ahmadtech",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,7 +21,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.mohammed_79.snack358ad61f013b45c491286b2f1895f60c"
+      "package": "com.ahmadtech.mhmdjamilapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
