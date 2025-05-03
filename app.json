@@ -2,6 +2,7 @@
   "expo": {
     "name": "issa",
     "slug": "snack-358ad61f-013b-45c4-9128-6b2f1895f60c",
+    "owner": "ahmadtech",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
