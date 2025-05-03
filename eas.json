@@ -3,11 +3,15 @@
     "version": ">= 16.3.3",
     "appVersionSource": "remote"
   },
+ {
   "build": {
-    "development": {
-      "developmentClient": true,
-      "distribution": "internal"
-    },
+    "android": {
+      "release": {
+        "buildType": "apk"
+      }
+    }
+  }
+},
     "preview": {
       "distribution": "internal"
     },
